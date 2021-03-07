@@ -164,9 +164,10 @@ margin: auto;}
 
 .testimonial-img{display: flex;
 flex-direction: row;}
-.quote{transform: translate(40px, 35px);
+.quote{ background:url('../img/bg-quote.png') no-repeat;
+background-position: 10px 20px;
     z-index: 1;
-    width: 25px;
+    width: 100%;
 height: 20px;
 }
 #testimonial-one{z-index: 2;
