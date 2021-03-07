@@ -94,21 +94,21 @@ align-items: center;
        /*Landing page*/
         #landing-page{ background: hsl(218, 28%, 13%);
         position: relative;
-        z-index: 1;
+        z-index: 0;
         }
 
         #landingpage-image{background: url("../img/illustration-intro.png") no-repeat center center/contain;
              width: 100%;
             height: 300px;
-            margin: 40px 0px;
-            padding: 20px 10px;
-           z-index: 5;}
+            
+            padding: 30px 20px;
+           }
 
    
      
 
 
-.page-text{z-index: 1;
+.page-text{
     margin: 5px 15px;
 }
 #button{display: block;
