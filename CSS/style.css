@@ -164,7 +164,7 @@ margin: auto;}
 
 .testimonial-img{display: flex;
 flex-direction: row;}
-.quote{ background:url('../img/bg-quote.png') no-repeat;
+.quote{ background:url('../img/bg-quotes.png') no-repeat;
 background-position: 10px 20px;
     z-index: 1;
     width: 100%;
